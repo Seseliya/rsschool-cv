@@ -1,8 +1,8 @@
 ### Darya Zhylko
 
 Github: @Seseliya  
-Codepen: @Seseliya
-Email: d.zhylko@gmail.com
+Codepen: @Seseliya  
+Email: d.zhylko@gmail.com  
 +48 725 410 966 
 
 ---
