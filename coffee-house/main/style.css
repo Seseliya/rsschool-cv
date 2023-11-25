@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Inter;
+    src: url("../assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ 
+.main-header  {
+    display: flex;
+}
+
+.justify-content-between {justify-content: space-between;}
+
+
+
+.container {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0 40px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #403F3D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+  }
+
+.nav-link {
+    padding: 0 40px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #403F3D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+  }
+
+.dropbtn{
+    padding: 0 40px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #403F3D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+  }
+
+  
+.icon-image{
+    vertical-align: top;
+  }
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.logo-image {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    left: 40px;
+}
+
+.img-hero-image {
+    left: 40px;
+    border-radius: 40px;
+}
